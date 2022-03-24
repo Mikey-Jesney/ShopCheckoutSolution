@@ -1,0 +1,9 @@
+{
+  "name": "shop-checkout-project",
+  "version": "0.0.0",
+  "description": "ShopCheckoutProject",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
